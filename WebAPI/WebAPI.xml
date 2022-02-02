@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:WebAPI.Controllers.CarsController.Add(Entities.Concrete.Car)">
+            <summary>
+            added car 
+            </summary>
+            <param name="car"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
